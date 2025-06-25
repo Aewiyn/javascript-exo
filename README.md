@@ -10,7 +10,7 @@ Each project is in its own folder and focuses on basic DOM manipulation, user in
 - 🔁 Palindrome Checker
 - 💬 Random Quote Generator
 - ⏱️ Stopwatch
-- 📝 Persistent ToDo List (with localStorage)
+- 📝 To Do List (with localStorage)
 - ✊🖐✌️ Rock Paper Scissors
 
 Feel free to explore each one — most of them are built using only vanilla JS, HTML and CSS.
